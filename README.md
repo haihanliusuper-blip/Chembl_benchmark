@@ -1,4 +1,4 @@
-# ChEMBL target-wise GNN benchmark
+# ChEMBL target-wise GNN Systematic Evaluation
 
 Code accompanying the systematic evaluation of graph neural networks for ligand-based virtual screening on ChEMBL-derived datasets. The repository provides data processing utilities, IC50 preprocessing workflows, target-wise dataset construction, random and scaffold/cluster-based split evaluation, GNN model implementations, property analysis, and multitask learning pipelines.
 
