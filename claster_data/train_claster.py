@@ -13,7 +13,7 @@
         ...
 
 运行示例:
-    python 训练GIN_cluster.py \
+    python train_claster.py \
         --root ChEMBL_Targets_clusterpt \
         --train_name IC50.holdout.train.pt \
         --test_name  IC50.holdout.test.pt \
