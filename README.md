@@ -1,9 +1,6 @@
 # ChEMBL target-wise GNN benchmark
 
-Code accompanying the target-wise ChEMBL bioactivity benchmark. The repository
-contains data-download utilities, IC50 preprocessing, random-split GNN models,
-Butina scaffold/cluster-holdout evaluation, property analysis, and multitask
-training.
+Code accompanying the systematic evaluation of graph neural networks for ligand-based virtual screening on ChEMBL-derived datasets. The repository provides data processing utilities, IC50 preprocessing workflows, target-wise dataset construction, random and scaffold/cluster-based split evaluation, GNN model implementations, property analysis, and multitask learning pipelines.
 
 ## Reproducibility status
 
