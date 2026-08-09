@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+.DS_Store
+*.log
+*.tmp
+*.csv.tmp
+core
+core.*
+ChEMBL_Targets_MIN/
+cluster_benchmark/
+cluster_smoke/
+*.pt
+!multitask/gin_multitask_encoder_best.pt
+report_*.csv
+
